@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite
 to see my website : https://app-using-react-created-bysujoyghosal.netlify.app/
 
@@ -7,3 +8,7 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+=======
+# ReactBasicelements
+props, eventHandelers, useState etc
+>>>>>>> 5a711adb8f500b2a73b73a54363fd2b4d42636d3
